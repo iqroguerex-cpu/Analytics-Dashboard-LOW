@@ -11,7 +11,7 @@ An interactive, professional-grade analytics dashboard built with **Streamlit** 
 
 ## 🚀 Live Demo
 
-👉 https://your-app-name.streamlit.app
+👉 https://lowendcommitproject1.streamlit.app/
 
 ---
 
