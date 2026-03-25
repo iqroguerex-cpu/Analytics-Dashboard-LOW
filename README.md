@@ -112,6 +112,20 @@ This project is licensed under the MIT License.
 
 ---
 
+## 👤 Author
+
+**Chinmay V Chatradamath**
+
+
+---
+
+## 🙌 Acknowledgements
+
+* Built with ❤️ using Streamlit
+* Inspired by modern data dashboards and analytics tools
+
+---
+
 ## ⭐ Support
 
 If you found this useful, consider giving it a star ⭐
